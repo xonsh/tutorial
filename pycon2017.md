@@ -10,6 +10,17 @@ Description
 # this presentation. Limit this description to a few concise paragraphs.
 -->
 
+Xonsh is general purpose shell that combines Python and the best features of Bash,
+zsh, and fish. Relying only the standard library, the xonsh language is a strict
+superset of Python which compiles to a Python AST. The shell provides exciting
+features such as a rich history, tab completion from Bash and man pages, syntax
+highlighting, auto-suggestion, foreign shell aliases, macros, and more!
+
+This tutorial will walk the user through the basics of the xonsh language,
+customization of the shell, and advanced features such as writing
+xonsh extensions (xontribs), events, and custom tab completers.
+
+
 Audience
 --------
 <!--
@@ -18,6 +29,14 @@ Audience
 # have? (3) What do you expect students to learn, or to be able to do after
 # attending your tutorial?
 -->
+
+Anyone who has looked at Bash and thought, "there must be another way." or
+"I wish there was a way for Python to truly be my main shell." Students at
+a minimum should have a basic understanding of the Python language. Ideally,
+the student would have some additional knowledege of a shell language, such
+as Bash, fish, cmd.exe, or powershell. After this tutorial students should be
+able to use xonsh as their main, default, everyday shell on all platforms.
+
 
 Outline
 -------
