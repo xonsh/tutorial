@@ -18,7 +18,7 @@ highlighting, auto-suggestion, foreign shell aliases, macros, and more!
 
 This tutorial will walk the user through the basics of the xonsh language,
 customization of the shell, and advanced features such as writing
-xonsh extensions (xontribs), events, and custom tab completers. This tutorial
+xonsh extensions (xontribs) and events. This tutorial
 will focus on using xonsh day-to-day, rather than how xonsh's implementation.
 
 
@@ -50,6 +50,60 @@ Outline
 # the more confidence the committee will have that you can deliver the material
 # in the allotted time.
 -->
+
+* Welcome (1 min)
+* Install Now! (1 min)
+* Instructor Intro (1 min)
+* Python Mode (15 min)
+  - Basic syntax
+  - Environment variables
+  - Environment lookup
+* Python Mode Exercise (8 min)
+* Subprocess Mode (20 min)
+  - Basic syntax
+  - When in doubt, string literals
+  - Captured subprocesses
+  - Unaptured subprocesses
+  - Python Evaluation
+  - Globbing
+  - Piping
+  - Redirection
+  - And, Or, Not
+* Subprocess Mode Exercise (8 min)
+* Macros (15 min)
+  - Function Macros
+  - Subprocess Macros
+  - Context Manager Macros
+* Macro Exercise (8 min)
+* Break (10 min)
+* Customizing Xonsh (15 min)
+  - Xonsh Scripts
+  - Run Control Files
+  - Static Configuration Files
+  - Prompt Customization
+  - Writing Aliases
+  - Typifying Environment Variables
+* Customizing Xonsh Exercise (8 min)
+* History (10 min)
+  - Rich history
+  - The history object
+  - History alias and its subcommand
+* History Exercise (8 min)
+* Xontibs - Xonsh Extensions (15 min)
+  - Survey of existing xontribs
+  - Loading xontribs
+  - Writing xontribs
+  - Registering xontribs
+* Xontrib Exercise (8 min)
+* Xonsh Events (15 min)
+  - Overview
+  - Writing handlers
+  - Core events
+  - Custom events
+* Events Exercise (8 min)
+* Wrap-up (1 min)
+
+Note that there are 5 minutes of wigggle room.
 
 Additional notes
 ----------------
