@@ -18,7 +18,8 @@ highlighting, auto-suggestion, foreign shell aliases, macros, and more!
 
 This tutorial will walk the user through the basics of the xonsh language,
 customization of the shell, and advanced features such as writing
-xonsh extensions (xontribs), events, and custom tab completers.
+xonsh extensions (xontribs), events, and custom tab completers. This tutorial
+will focus on using xonsh day-to-day, rather than how xonsh's implementation.
 
 
 Audience
@@ -61,3 +62,19 @@ Additional notes
 # requests — for example, requests that involve accessibility, audio, or
 # restrictions on when your talk can be scheduled.
 -->
+
+I have given other xonsh talks, most notably at
+[last year's PyCon](https://www.youtube.com/watch?v=uaje5I22kgE). Other talks have
+been given at APUG (the Austin Python User’s Group) and the HubPy (Spartanburg,
+SC Python Meetup). Additionally I know of other people having given xonsh talks
+both publically and privately, such as Aaron Meurer (SymPy developer) gave a talk at
+Continuum and Lucas Inojosa in Brazil for a user group meeting, and
+[Matthias Bussonnier at PyBay 2016](https://www.youtube.com/watch?v=lopI4HkA9rE).
+
+I myself have given talks at many conferences, such as PyCon, SciPy, PyData, PyCon CA, and
+many nuclear engineering conferences (ANS, Physor, Global, etc.). I am also the co-author
+of O’Reilly’s “Effective Computation in Physics.”
+
+Furthermore, in my role as an assistant professor at the University of South Carolina,
+I have taught two introductory level nuclear engineering courses to upper division
+undergraduates and first year graduate students.
