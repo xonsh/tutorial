@@ -10,11 +10,11 @@ Description
 # this presentation. Limit this description to a few concise paragraphs.
 -->
 
-Xonsh is general purpose shell that combines Python and the best features of Bash,
-zsh, and fish. Relying only the standard library, the xonsh language is a strict
-superset of Python which compiles to a Python AST. The shell provides exciting
-features such as a rich history, tab completion from Bash and man pages, syntax
-highlighting, auto-suggestion, foreign shell aliases, macros, and more!
+Xonsh is general purpose shell that combines Python v3.4+ and the best features 
+of Bash, zsh, and fish. Relying only the standard library, the xonsh language is 
+a strict superset of Python which compiles to a Python AST. The shell provides 
+exciting features such as a rich history, tab completion from Bash and man pages, 
+syntax highlighting, auto-suggestion, foreign shell aliases, macros, and more!
 
 This tutorial will walk the user through the basics of the xonsh language,
 customization of the shell, and advanced features such as writing
