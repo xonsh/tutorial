@@ -82,12 +82,12 @@ Outline
   - Static Configuration Files
   - Prompt Customization
   - Writing Aliases
-  - Typifying Environment Variables
+  - Typefying Environment Variables
 * Customizing Xonsh Exercise (8 min)
 * History (10 min)
   - Rich history
   - The history object
-  - History alias and its subcommand
+  - History alias and its subcommands
 * History Exercise (8 min)
 * Xontibs - Xonsh Extensions (15 min)
   - Survey of existing xontribs
@@ -103,7 +103,7 @@ Outline
 * Events Exercise (8 min)
 * Wrap-up (1 min)
 
-Note that there are 5 minutes of wigggle room.
+Note that there are 5 minutes of wiggle room.
 
 Additional notes
 ----------------
@@ -121,7 +121,7 @@ I have given other xonsh talks, most notably at
 [last year's PyCon](https://www.youtube.com/watch?v=uaje5I22kgE). Other talks have
 been given at APUG (the Austin Python User’s Group) and the HubPy (Spartanburg,
 SC Python Meetup). Additionally I know of other people having given xonsh talks
-both publically and privately, such as Aaron Meurer (SymPy developer) gave a talk at
+both publically and privately; Aaron Meurer (SymPy developer) gave a talk at
 Continuum and Lucas Inojosa in Brazil for a user group meeting, and
 [Matthias Bussonnier at PyBay 2016](https://www.youtube.com/watch?v=lopI4HkA9rE).
 
