@@ -19,7 +19,7 @@ highlighting, auto-suggestion, foreign shell aliases, macros, and more!
 This tutorial will walk the user through the basics of the xonsh language,
 customization of the shell, and advanced features such as writing
 xonsh extensions (xontribs) and events. This tutorial
-will focus on using xonsh day-to-day, rather than how xonsh's implementation.
+will focus on using xonsh day-to-day, rather than xonsh's implementation.
 
 
 Audience
@@ -34,7 +34,7 @@ Audience
 Anyone who has looked at Bash and thought, "there must be another way." or
 "I wish there was a way for Python to truly be my main shell." Students at
 a minimum should have a basic understanding of the Python language. Ideally,
-the student would have some additional knowledege of a shell language, such
+the student would have some additional knowledge of a shell language, such
 as Bash, fish, cmd.exe, or powershell. After this tutorial students should be
 able to use xonsh as their main, default, everyday shell on all platforms.
 
